@@ -2,39 +2,90 @@
   "arabica": [
     {
       "foto": "images/produk/product_capuchino.jpg",
-      "nama": "Cappuccino Arabica",
-      "size": "500 Gram",
-      "harga": "200.000",
+      "nama": "Cappuccino",
+      "size": "250 Ml",
+      "harga": "25.000",
       "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
     },
     {
       "foto": "images/produk/product_espresso.jpg",
-      "nama": "Pahit Arabica",
-      "size": "100 Gram",
-      "harga": "100.000",
+      "nama": "Espresso",
+      "size": "250 Ml",
+      "harga": "27.000",
       "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
     },
     {
+      "foto": "images/produk/product_kopi_susu.jpg",
+      "nama": "Kopi Susu",
+      "size": "250 Ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    },
+    {
       "foto": "images/produk/product_latte.jpg",
-      "nama": "Latte Arabica",
-      "size": "150 Gram",
-      "harga": "150.000",
+      "nama": "Coffee Latte",
+      "size": "250 Ml",
+      "harga": "22.000",
       "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
     }
   ],
   "robusta": [
     {
-      "foto": "images/produk/product_kopi_susu.jpg",
-      "nama": "Kopsus Robusta",
-      "size": "100 Gram",
-      "harga": "500.000",
+      "foto": "images/produk/starbuck_coffee.jpg",
+      "nama": "Starbuck Coffee",
+      "size": "250 Ml",
+      "harga": "24.000",
       "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
     },
     {
-      "foto": "images/produk/product_latte.jpg",
-      "nama": "Latte Robusta",
-      "size": "150 Gram",
-      "harga": "150.000",
+      "foto": "images/produk/americano.jpg",
+      "nama": "Americano Coffee",
+      "size": "250 Ml",
+      "harga": "18.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/kopi_roasting.jpg",
+      "nama": "Kopi Roasting",
+      "size": "250 Ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/kopi_luwak.jpg",
+      "nama": "Kopi Luwak",
+      "size": "250 Ml",
+      "harga": "16.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ],
+  "nonkopi": [
+    {
+      "foto": "images/produk/taro.jpg",
+      "nama": "Taro",
+      "size": "250 Ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/matcha.jpg",
+      "nama": "Matcha",
+      "size": "250 Ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/coklat.jpg",
+      "nama": "Coklat",
+      "size": "250 Ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/red-velvet-latte.jpg",
+      "nama": "Red Velved Latte",
+      "size": "250 Ml",
+      "harga": "20.000",
       "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
     }
   ]
